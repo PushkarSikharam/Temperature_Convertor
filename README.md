@@ -1,3 +1,5 @@
+![Screenshot (31)](https://github.com/PushkarSikharam/Temperature_Convertor/assets/143738056/71b3cb8a-f4b4-45f8-8edd-d88c916a51f3)
+![Screenshot (30)](https://github.com/PushkarSikharam/Temperature_Convertor/assets/143738056/95d95b5f-f132-452e-89cc-687d449a4631)
 # Temperature_Convertor
 This is used to convert the temperature from Celsius to Fahrenheit and vice versa.
 
