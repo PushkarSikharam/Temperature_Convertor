@@ -23,11 +23,11 @@ a. Inside the body, create a container div with a semi-transparent white backgro
 b. Add padding to the container and center its content.
 
 5.Create the "Temperature Converter" header:
-a. Add an <h1> element with the text "Temperature Converter" to the container.
+a. Add an <h1> element with the text "Temperature Converter" to the container.element with the text "Temperature Converter" to the container.
 
-6.Create two temperature conversion sections:
-a. Create two divs with the class "converter" inside the container.
-b. Each div contains a label, an input field, and a conversion button.
+6.Create two temperature conversion sections: 
+a. Create two divs with the class "converter" inside the container. 
+b. Each div contains a label, an input field, and a conversion button. 
 c. The first div is for converting from Celsius to Fahrenheit, and the second div is for converting from Fahrenheit to Celsius.
 
 7. Define styles for specific elements:
@@ -35,11 +35,11 @@ a. Style the header and labels with appropriate fonts and colors.
 b. Style input fields and buttons with padding, borders, and backgrounds.
 c. Apply specific styles to the Fahrenheit input field, giving it a different background color.
 
-8.  Display the conversion result:
-a.Add an empty <div> element with the id "result" to the container. This element will display the conversion result.
+8. Display the conversion result:
+a.Add an empty element with the id "result" to the container. This element will display the conversion result.
 
-9. Add JavaScript code:
-a. Define two JavaScript functions, convertToCelsius() and convertToFahrenheit().
-b. In convertToCelsius(), retrieve the Fahrenheit value from the input field, convert it to Celsius, display the result, and clear the Fahrenheit input field.
-c. In convertToFahrenheit(), retrieve the Celsius value from the input field, convert it to Fahrenheit, display the result, and clear the Celsius input field.
-d. Update the result displayed in the "result" <div> based on the conversion.
+9.Add JavaScript code:
+a. Define two JavaScript functions, convertToCelsius() and convertToFahrenheit(). 
+b. In convertToCelsius(), retrieve the Fahrenheit value from the input field, convert it to Celsius, display the result, and clear the Fahrenheit input field. 
+c. In convertToFahrenheit(), retrieve the Celsius value from the input field, convert it to Fahrenheit, display the result, and clear the Celsius input field. 
+d. Update the result displayed in the "result" based on the conversion.
